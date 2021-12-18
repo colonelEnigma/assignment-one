@@ -10,9 +10,9 @@ postman
 Inside this 'assignment-one' folder there are two subfolders named client and server.
 
 First, ensure that mongodb is installed and running on your system.
-You must run 'npm install' in each of these folders separately.
+You must run 'npm install' in each of these folders separately to install dependencies.
 
-Then run 'npm start' from inside both these folders to install dependencies.
+Then run 'npm start' from inside both these folders to run the program.
 
 frontend can be accesed via 'http://localhost:4200/'
 backend can be accessed via 'http://localhost:3000/'
